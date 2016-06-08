@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Challenging Fruits</string>
+    <string name="facebook_app_id" translatable="false">592718024226833</string>
+
+    <string name="title_activity_challenge">ChallengeActivity</string>
+    <string name="challenge_activity">CHALLENGE</string>
+    <string name="target_hint">Who?</string>
+    <string name="deadline_hint">When?</string>
+    <string name="challenge_hint">What?</string>
+    <string name="points_hint">Points</string>
+    <string name="go_btt">GO!</string>
+    <string name="openDrawer">show menu</string>
+    <string name="closeDrawer">hide menu</string>
+    <string name="name_surname">%1$s %2$s</string>
+    <string name="nav_entry_settings">Settings</string>
+    <string name="nav_entry_home">Home</string>
+    <string name="nav_entry_logout">Logout</string>
+    <string name="account_name">ChallengingFruits</string>
+
+    <string name="deadline_value">Deadline: %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_challenges">Challenges</string>
+    <string name="no_challenge_found">No challenge found</string>
+    <string name="title_logging_in">Log in ..</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">LOG IN</string>
+    <string name="register_text">SIGN UP</string>
+    <string name="error_field_required">Enter a value</string>
+    <string name="error_invalid_email">Enter a valid mail</string>
+    <string name="error_generic">Sorry, something went wrong :/</string>
+    <string name="error_credentials_not_valid">Mail or password not valid</string>
+    <string name="title_new_account">New Account</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_surname">Surname</string>
+    <string name="prompt_phone">Phone</string>
+    <string name="action_register">Sign up</string>
+    <string name="registering">Signing up ..</string>
+    <string name="error_invalid_password">Password not valid</string>
+    <string name="choose_profile_img">Choose profile picture</string>
+    <string name="error_no_memory_permission">Allow application to access memory!</string>
+    <string name="permit_app">Allow</string>
+    <string name="error_mail_already_used">Sorry, but the is already an account with the chosen mail</string>
+    <string name="error_missing_phone_prefix">Missing phone prefix (+39)</string>
+    <string name="points_string">100</string>
+    <string name="challenged_by_txt">+4512679438</string>
+    <string name="what_string">Description of the challenge</string>
+    <string name="challenges_loaded">Challenges loaded</string>
+    <string name="grant_permission_sms">I need to be able to read SMSs</string>
+    <string name="title_updating">Updating..</string>
+    <string name="label_name_surname">Nome Cognome</string>
+    <string name="action_done">DONE</string>
+    <string name="data_saved">Data saved</string>
+    <string name="challenge_details_lbl">Details</string>
+    <string name="label_days">Days</string>
+    <string name="label_hours">Hours</string>
+    <string name="label_minutes">Minutes</string>
+    <string name="owner_name">Who challenged you</string>
+    <string name="owner_value">Who:\n%1$s</string>
+    <string name="what_value">What:\n%1$s</string>
+</resources>
