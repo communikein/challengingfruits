@@ -5,6 +5,12 @@
     android:padding="10dp" android:background="@color/colorPrimary"
     tools:context=".activity.SplashActivity">
 
+    <ImageView android:layout_width="300dp" android:layout_height="300dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:src="@mipmap/ic_launcher" />
+
     <com.facebook.login.widget.LoginButton android:id="@id/facebook_login"
         android:layout_width="match_parent" android:layout_height="wrap_content"
         style="@style/FacebookButton" android:layout_marginTop="10dp"
