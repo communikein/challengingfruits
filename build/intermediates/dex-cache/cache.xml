@@ -3,87 +3,101 @@
 
     <item
         jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\com.facebook.android-facebook-android-sdk-4.7.0_a19b60f516e638b847332b3fe6186715d6895971.jar" />
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.7.0_a19b60f516e638b847332b3fe6186715d6895971\classes.dex" />
     </item>
     <item
-        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_f325e54a0a319276cfb3958922a247dc4789da14.jar" />
+        sha1="d3ca59f3ee1c8f8fe19e2376e5692e0c0cee7afb">
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_421535eb14c4a5a2d5446d99b5b90323c877aaa4\classes.dex" />
     </item>
     <item
         jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_1b8fd53aa253e378a6d04a2fc5c398c680bdbce4.jar" />
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_1b8fd53aa253e378a6d04a2fc5c398c680bdbce4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_f325e54a0a319276cfb3958922a247dc4789da14\classes.dex" />
     </item>
     <item
         jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_8581a482b733eb0bbb40155cf261339a4651cacd.jar" />
-    </item>
-    <item
-        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\de.hdodenhof-circleimageview-1.3.0_aaf56c21a166714e1c5049cadc8a372c651c5c20.jar" />
-    </item>
-    <item
-        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.github.lzyzsd\circleprogress\1.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e6f9fb0d2ea982d656d6dca785a9097659395874">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\com.github.lzyzsd-circleprogress-1.1.0_cfd192f3a0f2bd68333661fcf2c0f0357073b97f.jar" />
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_8581a482b733eb0bbb40155cf261339a4651cacd\classes.dex" />
     </item>
     <item
         jar="C:\Users\eliam\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\bolts-android-1.2.0_42bdd422f27bd8a742b37651b0cd8a542fa334eb.jar" />
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_42bdd422f27bd8a742b37651b0cd8a542fa334eb\classes.dex" />
     </item>
     <item
-        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.github.lzyzsd\circleprogress\1.1.0\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_c475fd7ca9e9ef4349014bd20303a2648a2af22a.jar" />
-    </item>
-    <item
-        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_b184da46c58ebe28c32ebd99100d62cab6aa5e50.jar" />
-    </item>
-    <item
-        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_674206e6133154f70faa64e05c101d83efabe0e2.jar" />
+        sha1="e6f9fb0d2ea982d656d6dca785a9097659395874">
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.lzyzsd-circleprogress-1.1.0_cfd192f3a0f2bd68333661fcf2c0f0357073b97f\classes.dex" />
     </item>
     <item
         jar="C:\Users\eliam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_0ca1bc2da3a5284e90d5df8b640363711e54af73.jar" />
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0ca1bc2da3a5284e90d5df8b640363711e54af73\classes.dex" />
     </item>
     <item
         jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\pre-dexed\release\com.android.support-design-23.4.0_1d18c9460df583a140c3b85f9206fbbc45a499e2.jar" />
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_1d18c9460df583a140c3b85f9206fbbc45a499e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_674206e6133154f70faa64e05c101d83efabe0e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="33211531e9a613a472ec22c1ccf8c6f949507c8d">
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_121902c6f519583da14e5d3ea198c06abdff8625\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_aaf56c21a166714e1c5049cadc8a372c651c5c20\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_c475fd7ca9e9ef4349014bd20303a2648a2af22a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_b184da46c58ebe28c32ebd99100d62cab6aa5e50\classes.dex" />
     </item>
 
 </items>

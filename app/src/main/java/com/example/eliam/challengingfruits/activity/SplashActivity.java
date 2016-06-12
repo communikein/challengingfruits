@@ -51,8 +51,8 @@ public class SplashActivity extends AccountAuthenticatorActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Thread.setDefaultUncaughtExceptionHandler(handler);
-        setContentView(R.layout.activity_splash);
         Utils.initFacebook(getApplicationContext());
+        setContentView(R.layout.activity_splash);
 
         icon = (ImageView) findViewById(R.id.app_logo);
         loginButton = (LoginButton) findViewById(R.id.facebook_login);

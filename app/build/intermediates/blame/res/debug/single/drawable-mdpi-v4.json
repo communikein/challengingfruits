@@ -120,12 +120,12 @@
         "source": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\com_facebook_tooltip_blue_background.9.png",
-        "source": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png"
-    },
-    {
         "merged": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_close.png",
         "source": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",

@@ -76,12 +76,12 @@
         "source": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_visibility_off.png"
     },
     {
-        "merged": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logout.png",
-        "source": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_logout.png"
-    },
-    {
         "merged": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_send_icon.png",
         "source": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable-hdpi\\com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logout.png",
+        "source": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_logout.png"
     },
     {
         "merged": "C:\\Users\\eliam\\projects\\ChallengingFruits\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",

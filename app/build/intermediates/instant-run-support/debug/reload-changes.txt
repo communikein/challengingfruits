@@ -1,4 +1,0 @@
-CHANGED,C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\eliam\challengingfruits\activity\AuthenticateActivity$7$override.class
-CHANGED,C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\eliam\challengingfruits\activity\AuthenticateActivity$override.class
-CHANGED,C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\eliam\challengingfruits\activity\AuthenticateActivity$6$override.class
-CHANGED,C:\Users\eliam\projects\ChallengingFruits\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

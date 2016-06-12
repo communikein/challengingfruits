@@ -328,7 +328,7 @@
     <string name="account_name">ChallengingFruits</string>
     <string name="action_done">DONE</string>
     <string name="action_register">Sign up</string>
-    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in">LOG IN</string>
     <string name="app_name">Challenging Fruits</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
@@ -369,7 +369,7 @@
     <string name="error_no_memory_permission">Allow application to access memory!</string>
     <string name="facebook_app_id" translatable="false">592718024226833</string>
     <string name="go_btt">GO!</string>
-    <string name="grant_permission_sms">I need to be able to read the SMS</string>
+    <string name="grant_permission_sms">I need to be able to read SMSs</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="label_days">Days</string>
     <string name="label_hours">Hours</string>
@@ -392,7 +392,7 @@
     <string name="prompt_password">Password</string>
     <string name="prompt_phone">Phone</string>
     <string name="prompt_surname">Surname</string>
-    <string name="register_text">Sign up</string>
+    <string name="register_text">SIGN UP</string>
     <string name="registering">Signing up ..</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="target_hint">Who?</string>
