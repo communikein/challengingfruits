@@ -3,6 +3,7 @@ package com.example.eliam.challengingfruits.activity;
 import android.app.Activity;
 import android.content.ContentResolver;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.content.res.Configuration;
 import android.database.Cursor;
@@ -23,6 +24,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.eliam.challengingfruits.Challenge;
 import com.example.eliam.challengingfruits.R;
 import com.example.eliam.challengingfruits.UserInfo;
 import com.example.eliam.challengingfruits.UserInfoUtility;
@@ -60,9 +62,15 @@ public class MainActivity extends AppCompatActivity
         Thread.setDefaultUncaughtExceptionHandler(handler);
         setContentView(R.layout.activity_main);
 
+        SharedPreferences sharedPreferences = getSharedPreferences("MENU_DATA", 0);
+        int menuId = sharedPreferences.getInt("MENU_ITEM", -1);
+
         Bundle extras = (getIntent() != null) ? getIntent().getExtras() : null;
         parseData(savedInstanceState, extras);
         initDrawer();
+
+        if (menuId >= 0)
+            navigate(menuId);
     }
 
     @Override
@@ -129,6 +137,9 @@ public class MainActivity extends AppCompatActivity
     public void navigate(int menuItemID) {
         if (drawerLayout.isDrawerOpen(GravityCompat.START)) drawerLayout.closeDrawers();
 
+        SharedPreferences sharedPreferences = getSharedPreferences("MENU_DATA", 0);
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+
         if (menuItemID != mNavItemId){
             mNavItemId = menuItemID;
 
@@ -136,12 +147,16 @@ public class MainActivity extends AppCompatActivity
             switch (menuItemID) {
                 /************** MAP LIST TAB ****************/
                 case R.id.drawer_home:
+                    editor.putInt("MENU_ENTRY", menuItemID);
+
                     fragmentManager.beginTransaction()
                             .replace(R.id.container, new ChallengesFragment(), ChallengesFragment.TAG)
                             .commit();
                     break;
                 /************** SETTINGS TAB ****************/
                 case R.id.drawer_settings:
+                    editor.putInt("MENU_ENTRY", menuItemID);
+
                     fragmentManager.beginTransaction()
                             .replace(R.id.container, SettingsFragment.newInstance(
                                     Utils.user.toString()), SettingsFragment.TAG)
@@ -149,11 +164,15 @@ public class MainActivity extends AppCompatActivity
                     break;
                 /************** LOGOUT TAB *****************/
                 case R.id.drawer_logout:
+                    editor.putInt("MENU_ENTRY", -1);
+
                     UserInfoUtility.removeAccount(this);
 
                     startActivity(new Intent(this, AuthenticateActivity.class));
                     break;
             }
+
+            editor.apply();
         }
     }
 
